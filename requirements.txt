@@ -12,7 +12,7 @@ django-pagedown==0.1.1
 django-rest-auth==0.9.5
 django-rest-passwordreset==1.0.0
 django-rest-swagger==2.2.0
-djangorestframework==3.9.4
+djangorestframework==3.11.2
 djangorestframework-jwt==1.8.0
 idna==2.8
 itypes==1.1.0
